@@ -74,8 +74,3 @@ A rede foi dividida logicamente através de VLANs para melhorar a organização 
 | VLAN 20 | Coordenação | `10.1.20.0/24` |
 | VLAN 30 | Servidores | `10.1.30.0/24` |
 
-A utilização de VLANs permite separar os diferentes ambientes da instituição e controlar o tráfego entre eles através do roteador Core.
-
-VLAN 10 → 10.1.10.1
-VLAN 20 → 10.1.20.1
-VLAN 30 → 10.1.30.1
