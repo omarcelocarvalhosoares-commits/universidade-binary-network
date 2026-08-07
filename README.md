@@ -5,11 +5,14 @@ Projeto de **Redes de Computadores e Infraestrutura de TI** desenvolvido utiliza
 O projeto simula a infraestrutura de rede de uma instituição de ensino, incluindo laboratórios, área de coordenação, sala de servidores, conectividade Wi-Fi e acesso a uma rede externa através de um ISP.
 
 
+
 📌 Sobre o projeto
 
 O objetivo deste projeto foi desenvolver uma infraestrutura de rede funcional, segmentada e com controles básicos de segurança, aplicando conceitos fundamentais de **Networking, Infraestrutura de TI e Segurança de Redes**.
 
 A topologia foi construída utilizando equipamentos Cisco e diferentes segmentos de rede, permitindo a aplicação prática de VLANs, roteamento, ACLs, serviços de rede e NAT/PAT.
+
+
 
 🗺️ Topologia
 
@@ -27,6 +30,7 @@ A infraestrutura é composta por:
 - Servidor Web
 - Servidor DNS
 - PC utilizado para validação do NAT/PAT
+
 
 
 🛠️ Tecnologias e conceitos utilizados
@@ -59,7 +63,6 @@ A infraestrutura é composta por:
 - NAT
 - PAT (NAT Overload)
 - ISP simulado
-
 
 🏷️ Segmentação por VLAN
 
